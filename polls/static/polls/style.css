@@ -1,0 +1,19 @@
+li a {
+    color: rgb(255, 165, 61);
+    font-size: 42;
+    
+}
+
+body {
+    color: rgb(255, 165, 61);
+    font-size: 36;
+    background: white url("images/bear background.png") repeat;
+    background-color: rgb(29, 28, 26);
+    
+
+}
+
+input {
+    height: 50px;
+    width: 50px;
+}
